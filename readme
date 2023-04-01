@@ -1,7 +1,6 @@
-Wireguard_install
+Wireguard_install on differents OS RASpberrypi
 
-Install Wireguard VPN + Locate the proper resolv.conf from /etc/resolv.conf
-Usage
+Install Wireguard VPN + Netshield antipub
 
 Run the script and follow the assistant:
 
